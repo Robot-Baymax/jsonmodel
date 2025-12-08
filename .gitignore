@@ -18,3 +18,7 @@ DerivedData
 Carthage
 Pods/
 Podfile.lock
+
+# SPM
+.swiftpm/xcode/xcuserdata
+.swiftpm/package.xcworkspace/xcuserdata
